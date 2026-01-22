@@ -11,9 +11,11 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+data/*
 downloads/
 eggs/
 .eggs/
+.DS_Store
 lib/
 lib64/
 parts/

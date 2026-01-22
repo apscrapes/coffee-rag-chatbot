@@ -1,0 +1,17 @@
+[project]
+name = "coffee-rag-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.11.*"
+dependencies = [
+    "chromadb>=1.4.1",
+    "ipykernel>=7.1.0",
+    "langchain-chroma>=1.1.0",
+    "langchain-core>=1.2.7",
+    "langchain-openai>=1.1.7",
+    "langchain-text-splitters>=1.1.0",
+    "pip>=25.3",
+    "scrapy>=2.14.1",
+    "scrapy-zyte-api>=0.32.0",
+]
