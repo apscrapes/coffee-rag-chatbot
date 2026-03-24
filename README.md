@@ -1,4 +1,6 @@
 # ☕ Coffee RAG Chatbot
+<img width="2752" height="1536" alt="RAG" src="https://github.com/user-attachments/assets/e2daa4ff-9133-4384-806a-28ad902aa5d5" />
+
 
 A Retrieval-Augmented Generation (RAG) chatbot that combines web scraping and AI to answer questions about coffee products. This project demonstrates how to build an intelligent assistant that stays up-to-date with real-world data by scraping fresh information and making it queryable through natural language.
 
